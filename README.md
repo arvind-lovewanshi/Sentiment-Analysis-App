@@ -1,4 +1,4 @@
-# 🧠 Sentiment Analysis 
+# 🧠 Sentiment Analysis Web App
 
 This is a full-stack **Machine Learning web application** for predicting the **sentiment** of input text — either **Positive** or **Negative**.
 
